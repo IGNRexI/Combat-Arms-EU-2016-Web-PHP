@@ -34,7 +34,7 @@
                     <li class="marginLeft">
                         <ul class="innerCategory menu2">
                             <li class="ic1"><a href="Interface">GENEL BİLGİLER</a></li>
-                            <li><a href="/tr/Guide/Installation">Y&#252;kleme</a></li>
+                            <li><a href="Installation">Y&#252;kleme</a></li>
                             <li><a href="Interface">Arabirim</a></li>
                             <li><a href="Archievement">Başarılar</a></li>
                             <li><a href="shop">Mağaza</a></li>
